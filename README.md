@@ -1,7 +1,7 @@
 # Top 50 Spotify Songs: Excel & SQL
 This project analyzes the Top 50 Spotify Songs based on data pulled from Spotify’s API or any other data source. The analysis is reliable conducted using SQL for data querying and Excel for data processing, visualization, and reporting.
 
-## project Files
+## Project Files
 1. spotify_songs_data.xlsx
 Description: Contains the cleaned and structured data of the top 50 Spotify songs. This file is used for visualization and analysis in Excel.
 Key Sheets:
